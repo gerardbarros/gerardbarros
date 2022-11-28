@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gerard</h1>
+<h1 align="center">Hi, I'm Gerard</h1>
 <h3 align="center">A passionate software developer from Houston, TX</h3>
 
 👨‍💻 All of my projects are available at [https://gcbtech.netlify.app/](https://gcbtech.netlify.app/)
