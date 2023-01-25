@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Gerard</h1>
-<h3 align="center">A passionate software developer from Houston, TX</h3>
+<h3 align="center">A fullstack software engineer from Houston, TX</h3>
 
-👨‍💻 All of my projects are available at [https://gcbtech.netlify.app/](https://gcbtech.netlify.app/)
+All of my projects are available at [https://gcbtech.netlify.app/](https://gcbtech.netlify.app/)
 
-📫 How to reach me **barros.gc@gmail.com**
+How to reach me **barros.gc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
